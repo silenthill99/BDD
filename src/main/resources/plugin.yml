@@ -1,0 +1,6 @@
+name: BDD
+version: '${version}'
+main: fr.silenthill99.bdd.BDD
+api-version: 1.16
+authors: [ silenthill99 ]
+description: test de la BDD
